@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sree Renjan (@sreeiscoding)
-- 👀 I’m interested in Web and Mobile app development
-- 🌱 I’m currently learning Python Django for robust and fast web development 
+- 👀 I’m interested in Web development and UI/UX Designing
+- 🌱 I’m currently learning Web development (project-based) and UI/UX
 - 📫 How to reach me email:sreeiscoding@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a undergraduate Political Science student learning webdevelopment in middle of college days and exams🤦‍♂️ 
-
+- ⚡ Fun fact: I'm a graduated Political Science student learning web development.
